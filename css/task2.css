@@ -1,0 +1,20 @@
+.button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #ffffff;
+  background-color: #1976d2;
+  border: none;
+  border-radius: 6px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition: background-color 250ms linear;
+}
+
+.button:hover {
+  background-color: #115293;
+}
